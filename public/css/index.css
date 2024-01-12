@@ -209,7 +209,7 @@ ol.lesson-three-task-three > li[value='3'] {
 /* <!--   Завдання №10. Задайте першому рядку жовтий фон. -->
 <!--  Використовуйте селектор псевдоелементу першого рядка --> */
 
-.lesson-three-task-ten > p::first-line {
+div.lesson-three-task-ten::first-line {
   background: yellow;
 }
 
